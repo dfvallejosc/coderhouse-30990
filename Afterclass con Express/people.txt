@@ -1,0 +1,5 @@
+{"id": 1,"name":"Diego","lastname":"Vallejos","age": 30,"city": "Medellín"}
+{"id": 2,"name":"David","lastname":"Boxler","age": 25,"city": "Buenos Aires"}
+{"name":"Daniel","lastname":"Brugioni","age":18,"city":"Buenos Aires","id":3}
+{"name":"Dante","lastname":"Terranova","age":20,"city":"Santiago de Chile","id":4}
+{"name":"Esteban","lastname":"Montero","age":"33","city":"Bogota","id":5}
